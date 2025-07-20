@@ -14,6 +14,7 @@
 |---------------------------|--------------------------------------------------------|------------------------------|
 | **Project 1** [🔗](https://colab.research.google.com/drive/1GkPtUFhMRaGijmaQ4vEJimKRtEGMtUDa#scrollTo=v9h-zwWaL4RT) | A/B-test analysis, bootstrap, t-test      | pandas, numpy, scipy, seaborn         |
 | **Project 2** [🔗](https://colab.research.google.com/drive/1qRAFFyvkyirwd65oFfoZ2xIkeGIwcrQT) | RFM, cohort analysis                    | pandas, numpy, seaborn            |
+| **Project 3** [🔗](https://colab.research.google.com/drive/1LU4giAucalJ4YPabCPkB2LY5Eofu4BLD#scrollTo=XM_8-WvT63iQ) | assortment analysis                    | pandas, numpy, matplotlib            |
 
 
 
